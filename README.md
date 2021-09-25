@@ -16,10 +16,4 @@ The datasets consists of several medical predictor variables and one target vari
 Number of Observation Units: 768.
 
 Variable Number: 9
-# Parameters
-   Activation functions: Sigmoid
-   Optimizer: Adam
-   No. of Layers: 6 hidden layer & 1 output layer
-   Units: 800, 500, 250, 150, 75, 40, 1
-   Loss: binary_crossentropy
-   Metrics: accuracy
+
